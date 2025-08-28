@@ -1,0 +1,1 @@
+A demonstration of basic statistical and probability concepts. The `dist_comp.ipynb` notebook contains Monte Carlo simulations of normal, exponential, and uniform distributions, showing them converging to their expected shape with larger sample sizes. The `dist_sim.ipynb` notebook contains three methods of comparing distributions: t-tests, scatterplots, and Q-Q plots.
